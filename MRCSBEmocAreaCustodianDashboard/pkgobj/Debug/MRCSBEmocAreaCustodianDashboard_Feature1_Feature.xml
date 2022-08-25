@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Visual Web Part Feature" Id="4e03938c-f61f-4842-9f87-2eee2f4ced9d" Scope="Site" Title="MRCSBEmocAreaCustodianDashboard_210819 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="EmocAreaCD\Elements.xml" />
+    <ElementFile Location="EmocAreaCD\EmocAreaCD.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,8 @@
+C:\Solution\MRCSBEmocCD\MRCSBEmocAreaCustodianDashboard\bin\Debug\MRCSBEmocAreaCustodianDashboard.dll
+C:\Solution\MRCSBEmocCD\MRCSBEmocAreaCustodianDashboard\bin\Debug\MRCSBEmocAreaCustodianDashboard.pdb
+C:\Solution\MRCSBEmocCD\MRCSBEmocAreaCustodianDashboard\obj\Debug\MRCSBEmocAreaCustodianDashboard.dll
+C:\Solution\MRCSBEmocCD\MRCSBEmocAreaCustodianDashboard\obj\Debug\MRCSBEmocAreaCustodianDashboard.pdb
+C:\Solution\MRCSBEmocCD - Enhance 09\MRCSBEmocAreaCustodianDashboard\bin\Debug\MRCSBEmocAreaCustodianDashboard.dll
+C:\Solution\MRCSBEmocCD - Enhance 09\MRCSBEmocAreaCustodianDashboard\bin\Debug\MRCSBEmocAreaCustodianDashboard.pdb
+C:\Solution\MRCSBEmocCD - Enhance 09\MRCSBEmocAreaCustodianDashboard\obj\Debug\MRCSBEmocAreaCustodianDashboard.dll
+C:\Solution\MRCSBEmocCD - Enhance 09\MRCSBEmocAreaCustodianDashboard\obj\Debug\MRCSBEmocAreaCustodianDashboard.pdb

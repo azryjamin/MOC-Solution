@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="32ce9195-ee25-4104-927a-baa0a32944b0" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="MRCSBEmocAreaCustodianDashboard.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="MRCSBEmocAreaCustodianDashboard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cac6c1b7c5c1fb99" Namespace="MRCSBEmocAreaCustodianDashboard.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="MRCSBEmocAreaCustodianDashboard_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

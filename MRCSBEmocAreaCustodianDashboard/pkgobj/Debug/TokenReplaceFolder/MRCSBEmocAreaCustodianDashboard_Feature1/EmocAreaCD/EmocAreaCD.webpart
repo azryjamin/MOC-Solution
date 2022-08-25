@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="MRCSBEmocAreaCustodianDashboard.VisualWebPart1.VisualWebPart1, MRCSBEmocAreaCustodianDashboard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cac6c1b7c5c1fb99" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">EMOC Custodian Dashboard Area</property>
+        <property name="Description" type="string">EMOC Custodian Dashboard by Area</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

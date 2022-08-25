@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" ActivateOnDefault="FALSE" AlwaysForceInstall="TRUE" Id="fbe20b93-ddeb-4d8f-b8e6-8fda202fba6e" ReceiverAssembly="PeriodicalTimer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=449f63ab5463bcdb" ReceiverClass="PeriodicalTimer.Features.PeriodicalTimerFeature1.OverDueJobtimerFeature1EventReceiver" Scope="WebApplication" Title="PrediocalJobtimerFeature1"></Feature>

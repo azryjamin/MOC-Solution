@@ -1,0 +1,9 @@
+C:\Solution\PeriodicalTimer\OverDueJobtimer\obj\Debug\OverDueJobtimer.pdb
+C:\Solution\PeriodicalTimer\OverDueJobtimer\bin\Debug\OverDueJobtimer.dll
+C:\Solution\PeriodicalTimer\OverDueJobtimer\bin\Debug\OverDueJobtimer.pdb
+C:\Solution\PeriodicalTimer\OverDueJobtimer\obj\Debug\OverDueJobtimer.dll
+C:\Solution\PeriodicalTimer\PeriodicalTimer\bin\Debug\PeriodicalTimer.dll
+C:\Solution\PeriodicalTimer\PeriodicalTimer\bin\Debug\PeriodicalTimer.pdb
+C:\Solution\PeriodicalTimer\PeriodicalTimer\obj\Debug\PeriodicalTimer.dll
+C:\Solution\PeriodicalTimer\PeriodicalTimer\obj\Debug\PeriodicalTimer.pdb
+C:\Solution\PeriodicalTimer\PeriodicalTimer\obj\Debug\PeriodicalTimer.csprojResolveAssemblyReference.cache
